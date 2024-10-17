@@ -1,4 +1,15 @@
-
 *.json
-*.csv"Mirror_Bot/model-cache/microsoft/Phi-3-mini-4k-instruct/model-00001-of-00002.safetensors" 
+*.csv
+*.jsonl
+*.safetensors
+optimizer.pt
+model-00001-of-00002.safetensors
+model-00002-of-00002.safetensors
+"Mirror_Bot/model-cache/microsoft/Phi-3-mini-4k-instruct/model-00001-of-00002.safetensors" 
 "Mirror_Bot/model-cache/microsoft/Phi-3-mini-4k-instruct/model-00002-of-00002.safetensors" 
+"Mirror_Bot/models/checkpoints/" 
+checkpoints/
+Put_Inbox_Folder_Here/inbox
+Put_Inbox_Folder_Here/inbox1
+Mirror_Bot_Divjot/
+Mirror_Bot/
